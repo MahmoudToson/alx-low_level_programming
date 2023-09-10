@@ -14,10 +14,12 @@ while (n <= 9)
 {
 putchar(n + 48);
 if (n != 9)
+{
 putchar(',');
 putchar(' ');
+}
 n++;
 }
-putchar(' ');
+putchar('\n');
 return (0);
 }
