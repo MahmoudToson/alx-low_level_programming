@@ -18,7 +18,6 @@ while (n <= 'z')
         putchar(n);
         n++;
 }
-putchar('\n');
 
 while (N <= 'Z')
 {
