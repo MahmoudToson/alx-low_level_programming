@@ -9,7 +9,6 @@ void print_times_table(int n)
 {
 int i;
 int j;
-int n;
 for (j = 0; j <= 9; j++)
 {
 _putchar(48);
