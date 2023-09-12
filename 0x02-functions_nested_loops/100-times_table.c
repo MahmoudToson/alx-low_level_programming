@@ -26,6 +26,7 @@ if (n <= 99)
 _putchar(' ');
 }
 if (n >= 100)
+{
 _putchar((n / 100) + 48);
 _putchar((n / 10) % 10 + 48);
 }
