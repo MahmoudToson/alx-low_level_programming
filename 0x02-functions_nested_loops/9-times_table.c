@@ -3,6 +3,9 @@
 /**
  * times_table - prints table of multiples of nine
  *
+ * Example table:
+ * 0, 1, 2, 3..
+ * 0, 2, 3, 4..
 */
 void times_table(void)
 {
